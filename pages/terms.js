@@ -11,38 +11,38 @@ return (
     <p>For the purposes of these Terms and Conditions:</p>
    <ul>
     <li>
-    <p><strong>"Affiliate"</strong> means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
+    <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where control means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
     </li>
     <li>
-    <p><strong>"Account"</strong> means a unique account created for You to access our Service or parts of our Service.</p>
+    <p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
     </li>
     <li>
-    <p><strong>"Company"</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Fitbytes.</p>
+    <p><strong>Company</strong> referred to as either the Company, We , Us or Our in this Agreementrefers to Fitbytes.</p>
     </li>
     <li>
-    <p><strong>"Country"</strong> refers to [india].</p>
+    <p><strong>Country</strong> refers to india.</p>
     </li>
     <li>
-    <p><strong>"Content"</strong> refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.</p>
+    <p><strong>Content</strong> refers to content such as text, images, or other information that can be posted, uploaded, linked to or otherwise made available by You, regardless of the form of that content.</p>
     </li>
     <li>
-    <p><strong>"Device"</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
+    <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
     </li>
     <li>
-    <p><strong>"Feedback"</strong> means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.</p>
+    <p><strong>Feedback</strong> means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.</p>
     </li>
     <li>
-    <p><strong>"Service"</strong> refers to the Website.</p>
+    <p><strong>Service</strong> refers to the Website.</p>
     </li>
     <li>
     
     </li>
     
     <li>
-    <p><strong>"Website"</strong> refers to Fitbytes, accessible from fitbytes.github.io</p>
+    <p><strong>Website</strong> refers to Fitbytes, accessible from fitbytes.github.io</p>
     </li>
     <li>
-    <p><strong>"You"</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
+    <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
     </li>
     </ul>
     <p><strong>Acknowledgment</strong></p>
@@ -61,10 +61,10 @@ return (
     <p><strong>Copyright Policy</strong></p>
     <p><strong>Intellectual Property Infringement</strong></p>
     <p>We respect the intellectual property rights of others. It is Our policy to respond to any claim that Content posted on the Service infringes a copyright or other intellectual property infringement of any person.</p>
-    <p>If You are a copyright owner, or authorized on behalf of one, and You believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, You must submit Your notice in writing to the attention of our copyright agent via email ([___COPYRIGHT_AGENT_CONTACT_EMAIL___]) and include in Your notice a detailed description of the alleged infringement.</p>
-    <p>You may be held accountable for damages (including costs and attorneys' fees) for misrepresenting that any Content is infringing Your copyright.</p>
+    <p>If You are a copyright owner, or authorized on behalf of one, and You believe that the copyrighted work has been copied in a way that constitutes copyright infringement that is taking place through the Service, You must submit Your notice in writing to the attention of our copyright agent via email  and include in Your notice a detailed description of the alleged infringement.</p>
+    <p>You may be held accountable for damages including costs and attorneys' fees for misrepresenting that any Content is infringing Your copyright.</p>
     <p><strong>Intellectual Property</strong></p>
-    <p>The Service and its original content (excluding Content provided by You or other users), features and functionality are and will remain the exclusive property of the Company and its licensors.</p>
+    <p>The Service and its original content excluding Content provided by You or other users, features and functionality are and will remain the exclusive property of the Company and its licensors.</p>
     <p>The Service is protected by copyright, trademark, and other laws of both the Country and foreign countries.</p>
     <p>Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of the Company.</p>
     <p><strong>Your Feedback to Us</strong></p>
@@ -78,20 +78,20 @@ return (
     <p>Upon termination, Your right to use the Service will cease immediately. If You wish to terminate Your Account, You may simply discontinue using the Service.</p>
     <p><strong>Limitation of Liability</strong></p>
     <p>Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.</p>
-    <p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>
+    <p>To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms, even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.</p>
     <p>Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.</p>
     <p><strong>"AS IS" and "AS AVAILABLE" Disclaimer</strong></p>
-    <p>The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>
-    <p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>
+    <p>The Service is provided to You AS IS and AS AVAILABLE  and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.</p>
+    <p>Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: i as to the operation or availability of the Service, or the information, content, and materials or products included thereon; ii that the Service will be uninterrupted or error-free; iii as to the accuracy, reliability, or currency of any information or content provided through the Service; or iv that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.</p>
     <p>Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.</p>
     <p><strong>Governing Law</strong></p>
     <p>The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.</p>
     <p><strong>Disputes Resolution</strong></p>
     <p>If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.</p>
-    <p><strong>For European Union (EU) Users</strong></p>
+    <p><strong>For European Union EU Users</strong></p>
     <p>If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.</p>
     <p><strong>United States Legal Compliance</strong></p>
-    <p>You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.</p>
+    <p>You represent and warrant that i You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a terrorist supporting country, and ii You are not listed on any United States government list of prohibited or restricted parties.</p>
     <p><strong>Severability and Waiver</strong></p>
     <p><strong>Severability</strong></p>
     <p>If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.</p>

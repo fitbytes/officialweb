@@ -6,10 +6,9 @@ return (
 <ul>
 <li>GENERAL</li>
 
-<li>a. This Website with the URL of https://fitbytes.github.io/ ("Website/Site") is operated by FitBytes ("We/Our/Us"). We are committed to protecting and respecting your privacy. We do collect your personal information and process your personal data in accordance with the IT Act, 2000 (21 of 2000) and other national and state laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data.</li>
+<li>a. This Website with the URL of https://fitbytes.github.io/ Website/Site  is operated by FitBytes We/Our/Us. We are committed to protecting and respecting your privacy. We do collect your personal information and process your personal data in accordance with the IT Act, 2000 21 of 2000  and other national and state laws which relate to the processing of personal data. Please read the following carefully to understand our views and practices regarding your personal data.</li>
 
-<li>b. We collect yo
-ur personal information in order to provide and continually improve our products and services.</li>
+<li>b. We collect your personal information in order to provide and continually improve our products and services.</li>
 
 <li>c. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.</li>
 
@@ -79,7 +78,7 @@ computer's main memory. </li>
 
   <li>CHANGES TO THIS POLICY</li>
 
-<li>We may change this policy from time to time. If we make any changes to this policy, we will change the "Last Updated" date above. You agree that your continued use of our services after such changes have been published to our services will constitute your acceptance of such revised policy.</li>
+<li>We may change this policy from time to time. If we make any changes to this policy, we will change the Last Updated  date above. You agree that your continued use of our services after such changes have been published to our services will constitute your acceptance of such revised policy.</li>
 
 </ul>
 </div>
