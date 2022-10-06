@@ -55,7 +55,7 @@ return (
      <li>COOKIES</li>
 
 <li>a. To optimize our web presence, we use cookies. These are small text files stored on your 
-computer's main memory. </li>
+computers main memory. </li>
 <li>These cookies are deleted after you close the browser. </li>
 <li>Other cookies remain on your computer (long-term cookies) and permit its recognition on your next visit.</li>
 <li> This allows us to improve your access to our site.</li>
