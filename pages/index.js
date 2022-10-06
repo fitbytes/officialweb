@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-
+import Link from "next/link"
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -14,8 +14,8 @@ export default function Home() {
         <h1 style={{color:"tomato",fontFamily:"Tahoma",textAlign:"center"}}>FITBYTES</h1>
       </header>
       <main class={styles.main}>
-      <button><a href="/terms">Terms and Conditions</a></button>
-     <button><a href="/privacy">Privacy</a></button>
+      <button><Link href="/terms">Terms and Conditions</Link></button>
+     <button><Link href="/privacy">Privacy</Link></button>
       </main>
 
      
